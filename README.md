@@ -19,6 +19,7 @@
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
