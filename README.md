@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
