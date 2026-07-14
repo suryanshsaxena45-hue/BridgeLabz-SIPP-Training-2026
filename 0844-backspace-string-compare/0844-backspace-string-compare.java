@@ -18,22 +18,7 @@ class Solution {
                 s2.pop();
             }
         }
-        StringBuilder sb1 = new StringBuilder();
-        StringBuilder sb2 = new StringBuilder();
-        while (!s1.isEmpty()) {
-            sb1.append(s1.pop());
-        }
-        while (!s2.isEmpty()) {
-            sb2.append(s2.pop());
-        }
-
-        String str1 = sb1.toString();
-        String str2 = sb2.toString();
-        if(str1.equals(str2)){
-            return true;
-        }else{
-            return false;
-        }
+        return s1.equals(s2);
         
 
     }
