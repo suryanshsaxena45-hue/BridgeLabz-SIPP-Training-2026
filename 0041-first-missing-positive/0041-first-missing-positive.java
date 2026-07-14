@@ -10,7 +10,7 @@ class Solution {
             if(map.contains(val)){
                 val++;
             }else{
-                int a = val+1;
+                continue;
             }
         }
         return val;
