@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 | [0946-validate-stack-sequences](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
+## Matrix
+|  |
+| ------- |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
+## Enumeration
+|  |
+| ------- |
+| [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 <!---LeetCode Topics End-->
