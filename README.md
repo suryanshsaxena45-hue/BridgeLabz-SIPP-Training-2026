@@ -50,6 +50,7 @@
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 | [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
