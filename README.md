@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 ## Iterator
 |  |
