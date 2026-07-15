@@ -21,6 +21,7 @@
 | [0844-backspace-string-compare](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 | [2390-removing-stars-from-a-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 ## Design
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 | [0946-validate-stack-sequences](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
 |  |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
