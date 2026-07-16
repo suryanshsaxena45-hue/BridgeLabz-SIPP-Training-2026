@@ -6,6 +6,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Queue
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 ## Iterator
 |  |
@@ -146,8 +150,13 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
