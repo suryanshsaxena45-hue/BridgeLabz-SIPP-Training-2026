@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
+| [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
 | [0946-validate-stack-sequences](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0946-validate-stack-sequences) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -140,6 +142,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
@@ -156,6 +159,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -173,4 +177,8 @@
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
