@@ -13,11 +13,13 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1268-search-suggestions-system](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1268-search-suggestions-system) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0678-valid-parenthesis-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
@@ -33,6 +35,7 @@
 | [0962-maximum-width-ramp](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0962-maximum-width-ramp) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
