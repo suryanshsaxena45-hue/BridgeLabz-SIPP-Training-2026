@@ -79,6 +79,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0041-first-missing-positive) |
 | [0239-sliding-window-maximum](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0239-sliding-window-maximum) |
+| [0463-island-perimeter](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0463-island-perimeter) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0900-rle-iterator](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0900-rle-iterator) |
@@ -160,6 +161,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0463-island-perimeter) |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/3256-maximum-value-sum-by-placing-three-rooks-i) |
 ## Enumeration
 |  |
@@ -184,6 +186,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0463-island-perimeter](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
@@ -192,6 +195,7 @@
 | [0100-same-tree](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0463-island-perimeter](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/suryanshsaxena45-hue/BridgeLabz-SIPP-Training-2026/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
